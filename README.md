@@ -1,4 +1,3 @@
-test
 # Snyk Code and Snyk Open Source Workshop
 
 Snyk Code and Snyk Open Source together provide easy-to-use, fast and accurate SAST and SCA testing, enabling developers and security teams to easily find and fix both security issues in their own proprietary code as well as known vulnerabilities in their open source dependencies, reducing risk and improving the pace of development
